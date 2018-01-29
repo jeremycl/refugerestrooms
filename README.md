@@ -19,7 +19,9 @@ Staging: [Link](http://staging.refugerestrooms.org)
 
 ## Contributing
 
-Changes to the site can be tested locally before deploying to the web. To get set up to edit the site and test your changes, see [`CONTRIBUTING.md`](https://github.com/RefugeRestrooms/refugerestrooms/blob/develop/CONTRIBUTING.md).
+For more information on how to contribute to Refuge Restrooms, or how the technology works, see the [Wiki](https://github.com/RefugeRestrooms/refugerestrooms/wiki).
+
+To test your changes to Refuge Restrooms before before deploying them to the web, see [`CONTRIBUTING.md`](https://github.com/RefugeRestrooms/refugerestrooms/blob/develop/CONTRIBUTING.md)
 
 ## Tech
 
